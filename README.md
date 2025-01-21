@@ -38,7 +38,7 @@
 - Резервная копия размещается локально, в директории `/tmp/backup`
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
-Файл скрипт:
+Файл скрипт: https://github.com/Mars12121/HW-3/blob/main/Rsync.sh
 
 ![alt text](https://github.com/Mars12121/HW-3/blob/main/img/4.png)
 ![alt text](https://github.com/Mars12121/HW-3/blob/main/img/5.png)
